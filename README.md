@@ -14,7 +14,7 @@ A secure, user-friendly password management system built using React, Node.js, E
 * Database: MongoDB (NoSQL)
 
 ## 📷 Screenshots
-![alt text](image.png)
+![Screenshot 2024-12-08 203845](https://github.com/user-attachments/assets/cc0efe37-1a79-46fa-ae99-d8ad9716d4a2)
 
 ## 📦 Installation
 1. Clone the repository:
