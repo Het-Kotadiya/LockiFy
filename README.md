@@ -45,9 +45,3 @@ npm run dev
 ## 🔒 Security Practices
 * Data Protection: User credentials are stored securely in a MongoDB database.
 * Password Masking: Prevents passwords from being visible on the main screen.
-* Copy Control: Users can copy credentials without directly viewing them.
-<<<<<<< HEAD:frontend/README.md
-*Environment Variables: Sensitive configurations (like database URIs) are stored in .env.
-=======
-* Environment Variables: Sensitive configurations (like database URIs) are stored in .env.
->>>>>>> 4e7de2cfd318bdf3094c81d8a2ec5db03b1cbe20:README.md
